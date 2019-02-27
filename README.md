@@ -4,6 +4,7 @@
 1) Node.js
 2) Python2 or Python3 (Python3 recommended)
 3) pip
+4) Visual Studio(VC++ 2015.3 v140 toolset(x86,x64)->select check box)
 
 ## How to configure and setup Jupyter-node-ibm_db
 
