@@ -2,7 +2,7 @@
 
 ## Prerequisite
 1) Node.js
-2) Python2 or Python3 (Python3 recommended)
+2) Python2.7
 3) pip
 4) Visual Studio(VC++ 2015.3 v140 toolset(x86,x64)->select check box)
 
@@ -21,9 +21,6 @@ Once you have pip, you can just run
 > Python2
 pip install jupyter
 
-> Python 3
-pip3 install jupyter
-```
 
 ### Step 3:
 ```
