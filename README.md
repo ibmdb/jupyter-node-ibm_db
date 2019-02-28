@@ -20,7 +20,7 @@ Once you have pip, you can just run
 
 > Python2
 pip install jupyter
-
+```
 
 ### Step 3:
 ```
