@@ -1,4 +1,4 @@
-# Jypyter notebook for [node-ibm_db](https://github.com/ibmdb/node-ibm_db)
+# Jupyter notebook for [node-ibm_db](https://github.com/ibmdb/node-ibm_db)
 
 ## Prerequisite
 1) Node.js
